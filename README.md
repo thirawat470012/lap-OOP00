@@ -1,5 +1,5 @@
 # lap-OOP00
-A
 
-Thirawat Chottanapaisan
-653450090-6
+Name : Thirawat Chottanakitpaisan
+Student Id : 653450090-6
+Email : thirawat.c@kkumail.com
